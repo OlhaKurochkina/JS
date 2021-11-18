@@ -149,12 +149,12 @@
 
 // - За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
 //     let a = 100; let b = '100'; let c = true;
-    let a = 100;
-    console.log(typeof a);
-    let b = '100';
-    console.log(typeof b);
-    let c = true;
-    console.log(typeof c);
+//     let a = 100;
+//     console.log(typeof a);
+//     let b = '100';
+//     console.log(typeof b);
+//     let c = true;
+//     console.log(typeof c);
 
 
 
@@ -171,29 +171,29 @@
 // 10 ? 10 -> false
 // 123 ? '123' -> false
 // 123 ? '123' -> true
-
-console.log(5 < 6);
-// 5 ? 6 -> true
-console.log(5 === 6);
-// 5 ? 6 -> false
-console.log(5 > 6);
-// 5 ? 6 -> false
-console.log(5 >= 6)
-// 5 ? 6 -> false
-console.log(10 === 10);
-// 10 ? 10 -> true
-console.log(10 >= 10);
-// 10 ? 10 -> true
-console.log(10 < 10);
-// 10 ? 10 -> false
-console.log(10 < 10)
-// 10 ? 10 -> false
-console.log(10 !== 10);
-// 10 ? 10 -> false
-console.log(123 === '123');
-// 123 ? '123' -> false
-console.log(123 !== '123');
-// 123 ? '123' -> true
+//
+// console.log(5 < 6);
+// // 5 ? 6 -> true
+// console.log(5 === 6);
+// // 5 ? 6 -> false
+// console.log(5 > 6);
+// // 5 ? 6 -> false
+// console.log(5 >= 6)
+// // 5 ? 6 -> false
+// console.log(10 === 10);
+// // 10 ? 10 -> true
+// console.log(10 >= 10);
+// // 10 ? 10 -> true
+// console.log(10 < 10);
+// // 10 ? 10 -> false
+// console.log(10 < 10)
+// // 10 ? 10 -> false
+// console.log(10 !== 10);
+// // 10 ? 10 -> false
+// console.log(123 === '123');
+// // 123 ? '123' -> false
+// console.log(123 !== '123');
+// // 123 ? '123' -> true
 
 //
 // - Подумайте Какие значения выведет в окно браузера следующий фрагмент кода?  и почему?
