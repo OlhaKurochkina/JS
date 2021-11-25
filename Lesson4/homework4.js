@@ -28,7 +28,7 @@
 // - створити функцію яка приймає масив та виводить кожен його елемент
 
 
-//
+
 // function  m (lol) {
 //     for (const lil of lol){
 //         console.log(lil);
